@@ -1,11 +1,11 @@
-class Dog {
+Class Dog {
 
 int size;
 string breed;
 string name;
 
 void bark() {
-system.out.pringln(“ruff! ruff!”);
+System.out.println(“ruff! ruff!”);
 }
 }
 
